@@ -16,7 +16,7 @@
 			veniam ad voluptate temporibus, quisquam cum. Facere.
 		</p>
 		<a
-			href="/blog/slug"
+			href="/b/slug"
 			class="border-2 border-black px-2 py-1 my-1 block text-center rounded-xl font-sans cursor-pointer hover:text-white hover:bg-black"
 			>Read More
 		</a>

@@ -2,7 +2,7 @@
 	import Author from '../../../lib/components/author.svelte';
 </script>
 
-<section class="container mx-auto">
+<section class="container mx-auto mb-4">
 	<div class="h-[592px]">
 		<img src="/test.jpg" alt="Blog Banner" class="h-full w-full" />
 	</div>
