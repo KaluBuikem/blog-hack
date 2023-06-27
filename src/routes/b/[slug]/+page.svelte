@@ -47,7 +47,7 @@
 			</p>
 		</article>
 		<div class="mt-6">
-			<span>ABOUT THE AUTHOR</span>
+			<span class="text-slate-400 font-sans">ABOUT THE AUTHOR</span>
 			<Author />
 		</div>
 	</section>
