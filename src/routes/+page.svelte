@@ -1,3 +1,7 @@
+<script lang="ts">
+	console.log('rwdjs');
+</script>
+
 <section
 	class="bg-fixed bg-no-repeat bg-auto bg-center h-[400px] mt-2"
 	style="background-image: url(/banner.jpg);"
